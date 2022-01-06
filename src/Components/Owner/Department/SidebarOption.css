@@ -1,0 +1,18 @@
+.sidebar__option{
+    display:  inline-block;
+    /* position:fixed */
+    align-items: center;
+    height: 48px;
+    padding: 0 10px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    cursor: pointer;
+    color: rgb(17, 10, 10) 
+   
+}
+
+
+
+.sidebar__option > .MuiSvgIcon-root  {
+    padding: 5px;
+}

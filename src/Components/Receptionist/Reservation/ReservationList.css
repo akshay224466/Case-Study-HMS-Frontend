@@ -1,0 +1,50 @@
+.add_button{
+    padding: 7px;
+    display: inline-block;
+    text-decoration: none;
+    /* border-radius: 10px; */
+    color: white;
+    border: 3px solid;
+    background-color: #212529;
+    font-weight: 600;
+}
+
+.add_button:hover{
+    color: white;
+    border-bottom-color: #048858;
+}
+
+.update_button{
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #048858;
+    border: 1px solid #048858;
+    background-color: #21252900;
+    /* margin: 5px; */
+    /* margin-top: 20px; */
+    /* font-weight: 600; */
+}
+
+.update_button:hover{
+    color: white;
+    background-color: #048858;
+}
+
+
+.delete_button{
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid white;
+    background-color: #21252900;
+    /* margin-top: 5px; */
+}
+
+.delete_button:hover{
+    color: gray;
+    background-color: white;
+}

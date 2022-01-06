@@ -1,0 +1,17 @@
+
+.bg{
+   
+    /* background: url('https://image.shutterstock.com/image-photo/hotel-reservation-blank-ring-on-260nw-1566785659.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+      
+   
+  
+
+}
+
+.container{
+   opacity: .9;
+    /* font-weight: bolder; */
+   
+}

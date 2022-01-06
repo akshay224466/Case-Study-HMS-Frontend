@@ -1,0 +1,11 @@
+.co{
+    text-align: center;
+    
+}
+.img{
+    background: url('https://images.pexels.com/photos/271643/pexels-photo-271643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 545px;
+}
+

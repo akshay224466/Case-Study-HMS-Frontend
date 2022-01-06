@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #9bbdff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(162, 218, 255);
+  text-align: center;
+  color: white;
+}
+
+.sidebar__{
+  position: fixed;
+  height: 100%;
+  width: 150px;
+  background-color: #638fc0;
+  flex-direction: column;
+}
+
+.sidebar__text{
+  font-size: 20px;
+  margin-left: 10px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
 }

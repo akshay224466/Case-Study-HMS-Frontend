@@ -1,0 +1,23 @@
+.table__header{
+    background: #0096aa;
+    color: white;
+}
+
+/* .department{
+    display: grid;
+} */
+
+.content{
+    margin-left: 200px;
+    margin-right: 100px;
+    
+}
+
+.content>h1{
+  
+    font-size: 30px;
+    margin-top: 0px;
+  font-family: monospace;
+  font-weight: bold;
+    background: #d8d8d8;
+}
